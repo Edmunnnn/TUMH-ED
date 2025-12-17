@@ -1,6 +1,6 @@
 # TUMH-ED
 Sainuu, busduudd medegdku geed ingehees uur arga baisnguee , H. 
- Uurtuu bvvr itgeltei bolooroi, ci mundag baigaashu ci zunduuu saijirsan. Bvvr ih zorigtoi bolooroii ci odooc bvr aaimr zorigtoi bga. Ci tursunuur horvoo nadad ineesen, tursund bayarlalaa, irsend bayarlalaa, uchirsand bayarlalaa, ugsund bayarlalaa ♥️
+ Uurtuu bvvr itgeltei bolooroi, ci mundag baigaashu ci zunduuu saijirsan. Bvvr ih zorigtoi bolooroii ci odooc bvr aaimr zorigtoi bga. Ci tursunuur horvoo nadad ineesen, tursund, irsend, uchirsand bayarlalaa, enrengui hair ugsund bayarlalaa ♥️
 <html lang="mn">
 <head>
   <meta charset="UTF-8">
