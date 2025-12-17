@@ -1,10 +1,10 @@
 # TUMH-ED
-Sainuu, busduudd medegdku geed ingehees uur arga baisnguee , H
-Uurtuu bvvr itgeltei bolooroi, ci mundag baigaashu ci zunduuu saijirsan. Bvvr ih zorigtoi bolooroii ci odooc bvr aaimr zorigtoi bga. Ci tursunuur horvoo nadad ineesen, tursund bayarlalaa, irsend bayarlalaa, uchirsand bayarlalaa, ugsund bayarlalaa 
+Sainuu, busduudd medegdku geed ingehees uur arga baisnguee , H. 
+ Uurtuu bvvr itgeltei bolooroi, ci mundag baigaashu ci zunduuu saijirsan. Bvvr ih zorigtoi bolooroii ci odooc bvr aaimr zorigtoi bga. Ci tursunuur horvoo nadad ineesen, tursund bayarlalaa, irsend bayarlalaa, uchirsand bayarlalaa, ugsund bayarlalaa 
 <html lang="mn">
 <head>
   <meta charset="UTF-8">
-  <title>Bi nuutsaltsiimaa</title>
+  <title>Bi nuutsaltsiimaa bitgii gomdoree</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
