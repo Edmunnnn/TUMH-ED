@@ -1,6 +1,5 @@
 # TUMH-ED
 Sainuu, busduudd medegdku geed ingehees uur raga baisnguee , H
-<!DOCTYPE html>
 <html lang="mn">
 <head>
   <meta charset="UTF-8">
@@ -35,7 +34,7 @@ Sainuu, busduudd medegdku geed ingehees uur raga baisnguee , H
 Цгупфхдоуялг дпзлгду. Щпшшззр шл, пууджгг плпл юйц, рпегррй йхпм плпл.
 </textarea>
 
-<button onclick="showText()">Decrypt</button>
+<button onclick="showText()">Tailah</button>
 
 <textarea id="output" readonly></textarea>
 
