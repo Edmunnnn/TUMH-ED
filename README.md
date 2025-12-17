@@ -5,20 +5,31 @@ Sainuu, busduudd medegdku geed ingej bnshd bvvr , H
 <head>
   <meta charset="UTF-8">
   <title>Mongolian Cipher Decryptor</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <style>
     body {
-      font-family: system-ui, sans-serif;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
       padding: 20px;
+      max-width: 800px;
+      margin: auto;
+      background: #f7f7f7;
     }
+
     textarea {
       width: 100%;
-      height: 120px;
+      height: 140px;
       font-size: 16px;
-    }
-    button {
+      padding: 10px;
       margin-top: 10px;
-      padding: 8px 16px;
+      box-sizing: border-box;
+    }
+
+    button {
+      margin: 15px 0;
+      padding: 10px 20px;
       font-size: 16px;
+      cursor: pointer;
     }
   </style>
 </head>
@@ -38,7 +49,8 @@ Sainuu, busduudd medegdku geed ingej bnshd bvvr , H
 const mapping = {
   "Ц":"Х","г":"а","у":"р","п":"а","ф":"м","х":"с","д":"л","о":"г",
   "я":"й","л":"ү","з":"ө","р":"ь","ш":"ч","Щ":"Ө","П":"М","ю":"з",
-  "й":"и","ц":"н","е":"ж","м":"г","Г":"А","Д":"Л","О":"Г","Л":"Ү"
+  "й":"и","ц":"н","е":"ж","м":"г",
+  "Г":"А","Д":"Л","О":"Г","Л":"Ү"
 };
 
 function decrypt() {
@@ -46,7 +58,7 @@ function decrypt() {
   let result = "";
 
   for (const char of input) {
-    result += mapping[char] || char;
+    result += mapping[char] ?? char;
   }
 
   document.getElementById("output").value = result;
