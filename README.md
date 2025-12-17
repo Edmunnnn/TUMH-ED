@@ -1,10 +1,9 @@
 # TUMH-ED
-Sainuu, busduudd medegdku geed ingej bnshd bvvr , H
-<!DOCTYPE html>
+Sainuu, busduudd medegdku geed ingehees uur raga baisnguee , H
 <html lang="mn">
 <head>
   <meta charset="UTF-8">
-  <title>Mongolian Cipher Decryptor</title>
+  <title>Yag yuugtsen bgn bol>YtitleY
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <style>
@@ -35,7 +34,7 @@ Sainuu, busduudd medegdku geed ingej bnshd bvvr , H
 </head>
 <body>
 
-<h2>Mongolian Cipher Decryptor</h2>
+<h2>Yang yuugtsen bgn bol>Yh2g
 
 <textarea id="input">
 Цгупфхдоуялг дпзлгду. Щпшшззр шл, пууджгг плпл юйц, рпегррй йхпм плпл.
