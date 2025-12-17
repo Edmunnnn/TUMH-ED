@@ -29,7 +29,7 @@ Uurtuu bvvr itgeltei bolooroi, ci mundag baigaashu ci zunduuu saijirsan. Bvvr ih
 </head>
 <body>
 
-<h2>Mongolian Cipher Decryptor</h2>
+<h2>Bi nuutsaltsiimaa</h2>
 
 <textarea>
 Цгупфхдоуялг дпзлгду. Щпшшззр шл, пууджгг плпл юйц, рпегррй йхпм плпл.
