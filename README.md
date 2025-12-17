@@ -3,7 +3,7 @@ Sainuu, busduudd medegdku geed ingehees uur raga baisnguee , H
 <html lang="mn">
 <head>
   <meta charset="UTF-8">
-  <title>Mongolian Text Output</title>
+  <title>Bi nuutsaltsiimaa</title>
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <style>
     body {
